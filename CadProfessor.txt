@@ -1,5 +1,7 @@
                    Cadastro de professor
 
-Matr�cula: 023
+Matrícula: 023
 Nome: Renato
 e-mail: RenatoPenha@gmail.com
+Telefone: 11987456321
+Disciplinas que leciona: Automação
