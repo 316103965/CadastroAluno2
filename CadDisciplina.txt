@@ -1,5 +1,4 @@
                      Cadastro de disciplina
 
-CÃ³digo: 08
-Disciplina: AutomaÃ§Ã£o
-Curso: CC
+Código: 08
+Disciplina: Automação
